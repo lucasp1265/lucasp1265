@@ -1,7 +1,7 @@
 ### Hi 👋
 
 
-- 🌱 I’m currently learning Python and HTML
+- 🌱 I’m currently learning Python and intend to learn HTML
 - 🤔 I’m looking for help with improve my skills every day
 - 📫 How to reach me: lucas.prado1265@gmail.com 
 
