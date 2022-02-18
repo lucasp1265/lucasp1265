@@ -7,7 +7,7 @@
 
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatpistol&theme=omni&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasp1265&theme=omni&show_icons=true)
 
 ##
 
@@ -24,5 +24,5 @@
 
 ##
 
-![Snake animation](https://github.com/fatpistol/fatpistol/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/lucasp1265/lucasp1265/blob/output/github-contribution-grid-snake.svg)
 
