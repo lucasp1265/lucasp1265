@@ -1,8 +1,7 @@
 ### Hi 👋
 
 
-- 🌱 I’m currently learning Python and intend to learn HTML
-- 🤔 I’m looking for help with improve my skills every day
+- 🌱 I’m currently working with stencil
 - 📫 How to reach me: lucas.prado1265@gmail.com 
 
 ##
