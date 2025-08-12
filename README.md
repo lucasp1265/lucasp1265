@@ -23,11 +23,5 @@
 
 ##
 
-### If you wanna know what music i am listening
-
-<a href="https://open.spotify.com/user/22thqqry36n657kxtfutsdnoi" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
-
-##
-
 ![Snake animation](https://github.com/lucasp1265/lucasp1265/blob/output/github-contribution-grid-snake.svg)
 
